@@ -1,7 +1,7 @@
 # Sliding_Puzzle_Solver
 Created a Board and a Solver class to that works correctly for arbitrary n-by-n boards (for any 2 ≤ n ≤ 128)
 
-![alt text](https://raw.githubusercontent.com/JustinElsamah/Sliding_Puzzle_Solver/master/)
+![alt text](https://raw.githubusercontent.com/JustinElsamah/Sliding_Puzzle_Solver/master/Screen Shot 2017-07-29 at 2.04.07 PM.png)
 
  The sliding block puzzle is played on an n-by-n grid with n^2 - 1 square blocks labeled 1 through n^2 - 1 and a blank square.
  
