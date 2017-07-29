@@ -9,5 +9,5 @@ Created a Board and a Solver class to that works correctly for arbitrary n-by-n 
  
  You are permitted to slide blocks horizontally or vertically into the blank square. 
  
- My solution uses a general artificial intelligence methodology known as the A* search algorithm and a princeton's minimum priority queue API
+ My solution uses a general artificial intelligence methodology known as the A* search algorithm and princeton's minimum priority queue API
 
